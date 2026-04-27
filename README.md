@@ -9,26 +9,6 @@ Setting up MusicBot is relatively straightforward. Simply follow one of the avai
 
 While the primary configuration file is `config/options.ini`, it's not included by default. To create this configuration, make a duplicate of `example_options.ini` and rename it to `options.ini`. Detailed configuration information can be found in `example_options.ini`.
 
-## How to Use & Special Information 🎶
-
-![Screenshot](https://github.com/gg4w1/Qaraqan---Orkhan-Zeynall---Okaber---Unutulanlar/assets/141458021/a79eb6db-4d76-433b-adf7-1766dc0811cf)
-
-## GitHub Repositories Are Being Banned 🚫
-**The reason is the usage of certain words in repository names such as: Hack, Cheat, Hacking Tool, Game Name, Hvnc, Rat, etc.**
-
-Furthermore, tags within repositories are also subject to restrictions. These limitations prevent the utilization of specific keywords I have positioned at the beginning of projects' tags, which are intended to enhance their discoverability.
-
-# Release Source Code Link: [Click Here 🔗](HEREEEE)
-# Direct Download Source Code:[**Source Code Download📥**](HERREEE)
-
-[![Source Code](https://cdn.discordapp.com/attachments/1132306937132879982/1138570951366283395/Source_Code_In_Release.png)](HEREE)
-
-Despite my attempts to bypass this limitation, regrettably, I did not achieve success. Consequently, I have chosen to place the source code in the Release section. Rest assured, I will include the required source code there, following the same approach as other individuals, rather than providing the executable.
-
-### Telegram Contact: [JOJO](https://t.me/) 📞
-
-![SHOT](https://i.imgur.com/kVtTKvS.gif)
-
 ### Commands 📜
 
 A wide array of commands is at your disposal when using the bot. One of the most notable commands is `play <url>` (prefixed by your command prefix), which triggers the download, processing, and playback of a song from platforms like YouTube or equivalent. For an extensive list of commands, please refer to [this link](https://just-some-bots.github.io/MusicBot/using/commands/ "Commands").
